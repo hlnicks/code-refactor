@@ -11,7 +11,7 @@ Taking already written code and editing it to make it more accessible to viewers
 https://hlnicks.github.io/code-refactor/
 
 ## Screenshot
-![ScreenShot](https://raw.githubusercontent.com/hlnicks/code-refactor/main/Develop/assets/images/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/hlnicks/code-refactor/main/assets/images/screenshot.png)
 
 ## Contribution
 Hannah Nicks
